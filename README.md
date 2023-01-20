@@ -1,6 +1,6 @@
 # 我的技术博客
 
-这个项目是我panghui 的技术博客，使用了 gitee 的 issues 区域来作为博文发布区。
+这个项目是我panghui 的技术博客，使用了 github 的 issues 区域来作为博文发布区。
 
 
 您的Star是我进行创作的动力！
